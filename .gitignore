@@ -53,3 +53,4 @@ cache/
 !.gitignore
 !README.md
 !prompt_optimization_gpt41mini_dspy.ipynb
+!qna_dataset.json
